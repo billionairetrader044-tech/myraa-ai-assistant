@@ -1,0 +1,6 @@
+{
+  "name": "Myraa — Real-Time Voice AI Companion",
+  "description": "Futuristic real-time voice-to-voice AI assistant powered by Gemini Live API with low-latency bidirectional audio streaming, natural interruption handling, and modular browser tools.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
